@@ -32,6 +32,7 @@ const validIssuers = [
   'Entrust',
   'Fastly\\, Inc.',
   'IdenTrust',
+  'C2PA Test',
 ];
 
 async function run() {
